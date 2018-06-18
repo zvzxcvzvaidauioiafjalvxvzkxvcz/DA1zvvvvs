@@ -112,6 +112,96 @@ Chương 2: CSS
 
     + CSS 3:
 
-      - Vậy CSS3 là một chuẩn mới nhất của CSS, hay nói cách khác nó là một Version mới của CSS. Nó được chia ra làm nhiều module và mỗi module sẽ có những nhiệm vụ khác nhau, khi kết hợp chúng với nhau sẽ tạo nên những hiệu ứng tuyệt vời.
+      - Vậy CSS3 là một chuẩn mới nhất của CSS, hay nói cách khác nó là một Version mới của CSS. Nó được chia ra làm nhiều module và mỗi module sẽ có những nhiệm vụ khác nhau, khi 
+      kết hợp chúng với nhau sẽ tạo nên những hiệu ứng tuyệt vời.
 
       - Với CSS3 nếu bạn kết hợp với jQuery nữa thì website của bạn sẽ trở nên sinh động, điển hình là các hiệu ứng Paralax, Landing Page, ...
+      
+
+# 4. Các framework của CSS
+
+  - 4.1. Bootstrap: 
+    
+    + a. Khái quát:
+    
+        + Đây là 1 framework hỗ trợ thiết kế giao diện rất tốt. 
+        
+        + Phiên bản hiện tại là bootstrap 4.
+        
+        + Bootstrap được sinh ra tại Twitter hồi đầu có tên là Twitter Bootstrap hiện nay là FrameWork số 01, dễ dùng phổ biến và đầy đủ
+        
+        + Đây là FrameWork bạn nên chọn vì được khá nhiều đơn đặt hàng từ các trang FreeLancer trên thế giới.
+        
+        + Giao diện sẽ được xây dựng dể dàng nhờ vào bootstrap
+        
+    + b. Các vấn đề cần chú ý về bootstrap:
+        
+        + Tính năng Responsive: Mặc đinh, Bootstrap sẽ tự động thay đổi các trang của bạn cho phù hợp với các kích thước màn hình khác nhau. Tuy nhiên
+        bạn có thể vô hiệu hóa nó
+        
+        + Hỗ trợ nhiều trình duyệt và thiết bị: 
+            
+            - Bootstrap được xây dựng để hoạt động ổn định nhất với các trình duyệt mới nhất trên máy tính để bàn và các thiết bị di động, điều đó có nghĩa 
+            là các trình duyệt cũ có thể hiển thị các style khác đi mặc dù vẫn có đầy đủ chức năng khi các thành phần được tạo ra.
+        
+        + Hỗ trợ bên thứ ba:
+        
+            - Mặc dù chúng tôi không hỗ trợ bất kỳ plugin hoặc add-on nào của bên thứ 3 một cách chính thức, chúng tôi vẫn có một vài lời khuyên 
+            hỗ trợ bạn tránh khỏi các lỗi tiềm tàng trong các dự án của bạn.
+            
+        + Vấn đề truy nhập:
+            
+            - Bootstrap được xây dựng tuân theo các chuẩn Web nói chung và—với một ít nỗ lực—có thể được sử dụng để tạo ra các site mà có thể truy cập được bằng cách sử dụng AT.
+            
+    + c. Cài đặt bootstrap:
+    
+        + CDN: Các bạn có thể dùng google CDN để chèn boostrap vào dự án của mình
+        
+        + Tải thư viện tại getbootstrap.com
+        
+    + d. Các component và các tính năng về JS: Xem tại getbootstrap.com
+    
+  - 4.2. Foundation
+  
+    - a. Foundation là gì ?
+    
+       + Foundation (theo như quảng cáo trên trang của họ) là một front-end framework đầu tiên và tiên tiến nhất thế giới, giúp chúng ta dễ dàng xây dựng các bản prototype, 
+       các sites và các ứng dụng (apps) hoạt động trên hầu hết các thiết bị (từ các màn hình loại nhỏ như smartphone tới các màn hình cỡ trung và lớn như PC và TV) với bộ 
+       thư viện mà họ cung cấp.
+    
+       + Foundation hướng tới kiến trúc mobile-first, tức là ban đầu bạn sẽ phải thiết kế ứng dụng cho các thiết bị có màn hình nhỏ đầu tiên, sau đó mở rộng ra những loại 
+       kích cỡ màn hình lớn hơn. Tuy nhiên bạn cũng không bắt buộc phải đi theo kiến trúc đó, chỉ là họ khuyên nên làm theo kiến trúc này sẽ đạt được hiệu quả tốt về thiết kế.
+    
+    - b. Front-end framework là gì?
+    
+       + Tương tự như các frameworks dùng để xây dựng giao diện ứng dụng native (kiểu Xcode cho iOS), Foundation là một framework để xây dựng giao diện front-end, 
+       giao diện người dùng của website hoặc các ứng dụng web. Foundation hoạt động trên browser, bởi vậy chúng ta có thể chủ động thiết kế các View riêng lẻ mà không 
+       cần quan tâm đến vấn đề logic, hay Server xử lý ra sao.
+    
+    - c. Các kỹ thuật sử dụng trong Foundation:
+    
+       + Foundation được xây dựng và đóng gói với bộ HTML, CSS và Javascript, cung cấp cho người dùng các thành phần cơ bản nhất của ứng dụng Web.
+       Ngoài ra các kỹ thuật như jQuery, HTML5 Boilerplate và Normalizr cũng được sử dụng để hỗ trợ thêm sức mạnh cho Foundation.
+         
+       + Kết hợp lại chúng ta sẽ có một bộ thư viện gồm các thành phần (components) và các plugins giúp làm việc dễ dàng hơn với các loại trình duyệt (browsers) và các loại thiết bị (devices) khác nhau.
+    
+    - d. Vì sao nên sử dụng Foundation
+    
+       + Foundation được phát triển và hỗ trợ bởi ZURB - công ty sử dụng framework này cho hầu hết các dự án của họ từ những startup nhỏ tới các doanh nghiệp lớn. 
+       Foundation đã được dùng và kiểm thử trong nhiều năm.
+       
+       + Hiện tại Foundation đã ra phiên bản 5 và nhiều lần release với những cải tiến đáng kể để chắc chắn rằng nó có thể hoạt động tốt và tương thích với nhiều môi trường khác nhau.
+    
+    - e. Cài đặt:
+    
+       + Với 3 lựa chọn:
+         
+         - Download Everything - Trọn bộ framework (gồm các components và plugins).
+        
+         - Download Essentials - Light version của framework bao gồm các thành phần: grid, typography, interchange, buttons và Reveal.
+        
+         - Custom Download - Tùy chọn những thành phần muốn tích hợp vào hệ thống, đồng thời có thể chủ động định nghĩa màu sắc (color), độ rộng cột (column size) hay font size, ...
+    
+    
+    
+    
