@@ -24,10 +24,16 @@
   
   - Tài liệu được viết bằng Markdown (https://www.markdowntutorial.com)
   
+  - Các Demo sẽ được viết bằng IntellIJ idea, Visual studio Code, Visual Studio
+  
+  - Hệ điều hành: Linux (Ubuntu) là chủ yếu. Một số demo về FontEnd, BackEnd sử dụng Window
+  
 ### III. Tài liệu hoàn thiện
   
 ### 1. Nguyễn Tấn Hậu
    
   - Docker : 22 / 6 / 2018
+  
+  - Git: 22 / 6 / 2018
   
    
