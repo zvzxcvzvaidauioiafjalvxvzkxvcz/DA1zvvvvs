@@ -3,29 +3,29 @@ Chương 2: CSS
 
 # Mục lục
 
-  - 1. CSS là gì
+  - I. CSS là gì
 
-  - 2. Tác dụng của CSS
+  - II. Tác dụng của CSS
 
-  - 3. Quá trình phát triển
+  - III. Quá trình phát triển
 
-  - 4. Các framework của css và ví dụ
+  - IV. Các framework của css và ví dụ
 
-    - 4.1. Boostrap
+    - Boostrap
 
-    - 4.2. Foundation
+    - Foundation
 
-    - 4.3. Bulma
+    - Bulma
 
-    - 4.4. Ulkit
+    - Ulkit
 
-    - 4.5. Semantic UI
+    - Semantic UI
 
-    - 4.6. Materialize css 
+    - Materialize css 
 
-  - 5. Responsive
+  - V. Responsive
 
-  - 6. Kế nhiệm
+  - VI. Kế nhiệm
 
     - SASS
 
@@ -37,7 +37,7 @@ Chương 2: CSS
 
     - PostCSS
   
-  - 7. Phương pháp, mô hình
+  - VII. Phương pháp, mô hình
 
     + SuitCSS
 
@@ -49,7 +49,7 @@ Chương 2: CSS
 
     + Systematic CSS
 
-  - 8. CSS 3
+  - VIII. CSS 3
 
     + Flexbox
 
@@ -202,6 +202,107 @@ Chương 2: CSS
         
          - Custom Download - Tùy chọn những thành phần muốn tích hợp vào hệ thống, đồng thời có thể chủ động định nghĩa màu sắc (color), độ rộng cột (column size) hay font size, ...
     
+    - f. So sánh Foundation và Bootstrap
+     
+         ![So sánh Foundation và Bootstrap](hinhanh/FoundationAndBootstrap.png)
+         
     
+  - 4.3. Bulma
+  
+    - Bulma là một open source (mã nguồn mở) và framework miễn phí rất tốt về mặt tiết kiệm thời gian, công sức và ngày càng trở nên phổ biến, bởi nó rất đơn giản để học và sử dụng.
     
+    - Thứ nhất, Bulma chứa các UI component tuyệt vời như tab, navigation bar (thanh điều hướng), box, panel và hơn thế, framework này được thiết kế để cung cấp cho bạn một giao diện người dùng rõ ràng và hấp dẫn. 
     
+    - Thứ hai, Bulma cực kỳ đơn giản, bạn chỉ cần nhập vào những tính năng cần thiết để có thể bắt đầu công việc của mình. 
+    
+    - Cuối cùng, framework này có các class dễ đọc, một lợi thế rất lớn cho một số nhà phát triển. 
+    
+  - 4.4. Ulkit
+    
+    - Trong khi Bootstrap và Foundation có thể là hai framework cho front-end phổ biến nhất đối với các nhà thiết kế web, tuy nhiên trong bài viết này tôi sẽ giới thiệu 
+    với bạn các tính năng của UIkit, một framwork nhẹ và có tính mô-đun cho fron-end cái mà tôi sử dụng trong hầu hết các dự án của tôi.
+    
+    - Tuỳ biến UIkit:
+        
+      + Đây là framework có thể được tuỳ biến một cách đầy đủ. Trước khi tải về, chúng ta có thể ghi đè lên các style mặc định của nó và áp dụng các style riêng của chúng ta. 
+      
+      + Ví dụ, nếu chúng ta muốn thay đổi các breakpoint (điểm ngắt) mặc định, chúng ta có thể truy cập vào trang customizer và tích vào tùy chọn Advanced Mode. 
+      
+      + Từ đó, chúng ta tìm thấy điểm các phần Breakpoint và thêm các breakpoint mới của chúng ta. Sau đó, chúng ta có được file CSS mới được tạo
+      
+    - Trình duyệt hỗ trợ:
+        
+         ![So sánh Foundation và Bootstrap](hinhanh/TrinhDuyetHoTroUIKit.png)
+         
+    - Các tính năng hữu ích của UIkit:
+    
+      + Flexbox và Grids
+      
+      + Tạo hiệu ứng động dựa trên việc cuộn trang
+      
+      + Thao tác với SVG
+      
+      + Hình nền với kích thước tự động đáp ứng (responsive)
+      
+      + Tạo các lớp che phủ
+      
+      + Tạo trình chiếu hình ảnh toàn màn hình có khả năng đáp ứng (responsive)
+      
+      + Tạo tiêu đề cố định
+      
+  - 4.5. Semantic UI
+  
+    - Hiện nay, Bootstrap và Foundation là hai front-end framework được các lập trình viên web sử dụng nhiều nhất. Nhưng lịch sử luôn cho thấy rằng sẽ luôn có một thứ tốt hơn 
+    sẽ xuất hiện và thay thế tất cả. Và điều đó sẽ không còn xa vời sự xuất hiện của Semantic UI, một modern front-end development framework.
+      
+    - Semantic UI được dựng trên LESS và jQuery. Mục tiêu của framework là cho phép designer và developer có khả năng chia sẻ UI thông qua 1 ngôn ngữ chung. 
+      
+    - Điều đó được thể hiện qua cách sử dụng ngôn ngữ mô tả để đặt tên cho các lớp và các quy chuẩn thay thế cho việc sử dụng các từ viết tắt ở các framework khác. 
+    
+    - Yếu tố này khiến cho Semantic UI gần gũi hơn với cộng đồng sử dụng tiếng anh. Ngoải ra còn phải kể đến một điểm cộng nữa của Semantic UI, nó được thiết kế phẳng với kiểu dáng đẹp, 
+    tinh tế mang lại cho người dùng cảm giác gọn nhẹ đúng với xu hướng thiết kế hiện đại ngày nay.
+    
+    - Các tính năng:
+    
+      + UI Element là một khối dựng cơ bản. Nó có thể xuất hiện một mình hay một nhóm thống nhất. Ví dụ như 1 button đọc lập hoặc một nhóm các button.
+      + UI Collection là một nhóm các loại thuộc tính khác nhau có sự liên kết. Ví dụ 1 form có thể có các button, input, checkbox, icon ...
+      + UI View là đại diện cho một phần của nội dung website. Ví dụ như feed hoặc comment.
+      + UI Module là thành phần tương tác với các chức năng dựa trên JavaScript. Ví dụ accordion, dimmer, modal ...
+      + UI Behavior là môt thành phần không thể tồn tại độc lập, nhưng thay vào đó nó được sử dụng để them các chức năng vào các thành phần khác. Ví dụ, form validation cung cấp chức năng xác nhận cho form.
+      
+    - Hầu hết các thành phần đều có type, state và variation. Ví dụ, loại của button bao gồm: nút cơ bản, nút với icon, nút có hiệu ứng, hoặc nút có thể được active, disabled, hay đang ở trạng tháng loading. 
+    Hơn nữa, 1 nút có thể thay đổi kích thước, màu sắc và có thể dịnh dạng như basic, social, fluid, toggle ...
+    
+    - Semantic UI không những sử dụng các từ có ý nghĩa và cấu trúc tốt để đặt tên lớp, mà còn sử dụng chúng trong việc đặt tên, xác định và mô tả cho các thành phần của nó. 
+    Việc này được thấy nhiều hơn so với Bootstrap hay Foundation.
+    
+    - Điểm đăc biệt thứ hai về Semantic UI là nó cung cấp một số tính năng và thành phần không có trên các framework khác. Ví dụ, Feed và Comment ở UI Views hay SideBar hay Shape của UI Modules. 
+    Ngoài ra, khi tương tác với các thành phần của Semantic UI, ta có thể dễ dàng debug. Chỉ cần mở web console sẽ thấy chính xác cách các thành phần của Semantic hoạt động.
+    
+    - Một điểm mạnh khác của Semantic UI là sử dụng phong cách tối thiểu giản và trung tính, điều này giúp người lập trình dễ dàng trong việc tùy chỉnh. 
+    Thêm nữa các thành phần của framework có tính chất linh động và độc lập do đó người lập trình có thể dễ dàng lấy và sử dụng khi cần thiết.
+    
+    - Semantic UI sử dụng em và rem làm đơn vị cho các thuộc tính của mình. Điều này làm cho nó hoàn toàn đáp ứng và thích hợp với các kích thước bất kỳ. 
+    Việc người lập trình cần làm chỉ là thay đổi kích thước font chữ và mọi thứ sẽ tự đọng điều chỉnh kích cỡ cho phù hơp.
+    
+    - Tiện lợi
+        
+      + Concise HTML: Semantic UI coi các từ và lớp như các khái niệm trao đổi. Các lớp sử dụng cú pháp như ngôn ngữ tự nhiên với sự quan hệ của các danh từ hay trợ từ.
+      
+      + Intuitive Javascript: Semantic sử dụng các cụm từ đơn giản như là hành vi kích hoạt chức năng. Mọi quyết định trong các thành phần như là thiết lập để các lập trình viên có thể tùy chỉnh.
+      
+      + Simplified Debugging: Với Semantic, lập trình viên có thể dễ dàng debug
+      
+  - 4.6. Materialize 
+  
+    - Bạn có thấy cụm từ trên rất quen thuộc không? Vâng, nó được lấy ý tưởng từ “Material Design” rất quen thuộc đối với hầu hết  web designer chúng ta hiện nay, nó được ông lớn Google định nghĩa nên. Sau đó, Google đã cho ra đời bộ Giao diện chuẩn Material nhưng rất tiếc chúng chỉ dùng cho những ứng dụng web có sử dụng AngularJS. Vậy làm thế nào một website bình thường có được giao diện chuẩn “Material” như Google bây giờ?
+    
+    - Các bạn đừng lo vì đã có một nhóm sinh viên của trường Đại học Carnegie Mellon, US đã tạo ra một bộ giao diện tương tự như vậy cho chúng ta. Và chúng có tên là “Materialize“.
+    
+    - Vậy chúng có điểm gì đặc biệt đáng để chúng ta sử dụng? Chúng ta cùng khám và phá thôi nào!
+    
+    - Ưu điểm đầu tiên phải nói đến đó là nó rất nhẹ và mượt, đồng thời rất dễ sử dụng. Chỉ cần gắn một file css và một file js vào bộ source của chúng ta là bạn đã có thể sử dụng rồi. Nó khá là quen thuộc nếu bạn đã từng sử dụng Bootstrap. Cú pháp ngắn gọn khá nhiều so với Bootstrap nhưng vẫn hỗ trợ tốt trên nhiều thiết bị.
+    
+    - Còn tiếp...
+    
+V. Responsive
