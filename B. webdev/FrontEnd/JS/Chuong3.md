@@ -74,4 +74,4 @@ Chương 3: JavaScript (JS)
     + GOF Design Pattern
 
 
-sdfsdfsd
+sdfsdfsdmknkjknnkkkjkj
