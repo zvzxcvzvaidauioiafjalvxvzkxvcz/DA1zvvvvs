@@ -12,7 +12,7 @@
 
   - Đây là bộ tài liệu cho tất cả các khái niệm về IT. Bao gồm các bài viết và các bản demo
   
-  - Cập nhật mỗi ngày
+  - Cập nhật mỗi tuần 1 chủ đề (Khái niệm + Demo)
   
   - Các demo chủ yếu là Java, NodeJS, C#
   
@@ -30,7 +30,7 @@
   
 ### III. Tài liệu hoàn thiện
   
-### 1. Nguyễn Tấn Hậu
+### 1. Nguyễn Tấn Hậu 
    
   - Docker : 22 / 6 / 2018
   

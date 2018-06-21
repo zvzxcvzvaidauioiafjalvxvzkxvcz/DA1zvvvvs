@@ -9,25 +9,25 @@ Java
 
   3. Các framework
     
-    - 3.1. Spring
+   - 3.1. Spring
 
-    - 3.2. JSF
+   - 3.2. JSF
 
-    - 3.3. Struts
+   - 3.3. Struts
 
-    - 3.4. Hibernate
+   - 3.4. Hibernate
 
-    - 3.5. GWT 
+   - 3.5. GWT 
 
-    - 3.6. Play! Framework
+   - 3.6. Play! Framework
 
-    - 3.7. Vaadin
+   - 3.7. Vaadin
 
-    - 3.8. Grails
+   - 3.8. Grails
 
-    - 3.9. Wicket
+   - 3.9. Wicket
 
-    - 3.10. Vert.x
+   - 3.10. Vert.x
 
   4. Các ngôn ngữ cũng dựa vào JVM
 
@@ -37,9 +37,9 @@ Java
 
   7. Các bài tập
 
-    - 7.1. Websocket Spring
+   - 7.1. Websocket Spring
 
-    - 7.2. SSO + JWT + Spring Sercurity
+   - 7.2. SSO + JWT + Spring Sercurity
   
 
  
