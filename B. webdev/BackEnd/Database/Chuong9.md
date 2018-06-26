@@ -21,6 +21,8 @@ Hệ quản trị cơ sở dữ liệu
 
      - 2.5. MSSQL
 
+     - 2.6. DB2
+
     - 3. NoSQL
       
       - Redis

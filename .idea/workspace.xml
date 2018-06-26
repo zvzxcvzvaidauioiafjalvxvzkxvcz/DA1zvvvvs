@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="15130052" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <treeState key="responsibilities">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+    <treeState key="changes">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3deda194-6da5-4d88-9a60-fb835be04db5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C. DevOps/9. Microservices/AD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E. Compiler Design/images/CoCheOtomat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I. DemoDesign/formlogin1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B. webdev/BackEnd/Database/Chuong9.md" beforeDir="false" afterPath="$PROJECT_DIR$/B. webdev/BackEnd/Database/Chuong9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C. DevOps/1. Linux/hocLinux" beforeDir="false" afterPath="$PROJECT_DIR$/C. DevOps/1. Linux/hocLinux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C. DevOps/2. Cloud/AWS/TongQuan.md" beforeDir="false" afterPath="$PROJECT_DIR$/C. DevOps/2. Cloud/AWS/TongQuan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C. DevOps/7. Cluster Managers/GioiThieu.md" beforeDir="false" afterPath="$PROJECT_DIR$/C. DevOps/7. Cluster Managers/GioiThieu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E. Compiler Design/HJTlang/Chuong1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E. Compiler Design/HJTlang/Chuong2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E. Compiler Design/HJTlang/Chuong3.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AD.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/C. DevOps/9. Microservices/AD.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="489">
+                <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/b. webdev/BackEnd/Chuong1.md" />
+        <option value="$PROJECT_DIR$/b. webdev/FrontEnd/Chuong2.md" />
+        <option value="$PROJECT_DIR$/C. DevOps/3. CICD/GioiThieu.md" />
+        <option value="$PROJECT_DIR$/C. DevOps/3. CICD/JENKINS.md" />
+        <option value="$PROJECT_DIR$/B. webdev/BackEnd/GoLang/Chuong14.md" />
+        <option value="$PROJECT_DIR$/C. DevOps/4. Automation/Terraform/GioiThieu.md" />
+        <option value="$PROJECT_DIR$/A. AI/LyThuyetDoThi/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/B. webdev/BackEnd/Java/TongQuan.md" />
+        <option value="$PROJECT_DIR$/B. webdev/BackEnd/NodeJS/TongQuan.md" />
+        <option value="$PROJECT_DIR$/B. webdev/FrontEnd/JS/Chuong3.md" />
+        <option value="$PROJECT_DIR$/C. DevOps/2. Cloud/AWS/TongQuan.md" />
+        <option value="$PROJECT_DIR$/E. Compiler Design/HJTlang/Chuong1.md" />
+        <option value="$PROJECT_DIR$/E. Compiler Design/HJTlang/Chuong2.md" />
+        <option value="$PROJECT_DIR$/C. DevOps/5. Contianers/1. docker/docs/docker-coban/Cluster.md" />
+        <option value="$PROJECT_DIR$/C. DevOps/9. Microservices/Authen2.md" />
+        <option value="$PROJECT_DIR$/E. Compiler Design/HJTlang/1_TongQuan/TongQuanVeCacCongNguLapTrinh.md" />
+        <option value="$PROJECT_DIR$/C. DevOps/9. Microservices/AD.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+              <item name="B. webdev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+              <item name="B. webdev" type="462c0819:PsiDirectoryNode" />
+              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+              <item name="C. DevOps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+              <item name="C. DevOps" type="462c0819:PsiDirectoryNode" />
+              <item name="3. CICD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+              <item name="C. DevOps" type="462c0819:PsiDirectoryNode" />
+              <item name="7. Cluster Managers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+              <item name="C. DevOps" type="462c0819:PsiDirectoryNode" />
+              <item name="9. Microservices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+              <item name="E. Compiler Design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+              <item name="E. Compiler Design" type="462c0819:PsiDirectoryNode" />
+              <item name="HJTlang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+              <item name="E. Compiler Design" type="462c0819:PsiDirectoryNode" />
+              <item name="HJTlang" type="462c0819:PsiDirectoryNode" />
+              <item name="1_TongQuan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DA1zvvvvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DA1zvvvvs" type="462c0819:PsiDirectoryNode" />
+              <item name="G. GIt" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\15130\Dropbox\0_FullDocument\DA1zvvvvs\A. AI\3. Machine learning" />
+      <recent name="C:\Users\15130\Dropbox\0_FullDocument\DA1zvvvvs\A. AI\1. Logic Toan" />
+      <recent name="C:\Users\15130\Dropbox\0_FullDocument\DA1zvvvvs\A. AI\LyThuyetDoThi" />
+      <recent name="C:\Users\15130\Dropbox\0_FullDocument\DA1zvvvvs\C. DevOps\7. Cluster Managers\Docker Swarm" />
+      <recent name="C:\Users\15130\Dropbox\0_FullDocument\DA1zvvvvs\C. DevOps\7. Cluster Managers\Fleet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\15130\Dropbox\0_FullDocument\DA1zvvvvs\C. DevOps\3. CICD\JENKINS" />
+      <recent name="C:\Users\15130\Dropbox\0_FullDocument\DA1zvvvvs\C. DevOps\3. CICD\Travis" />
+      <recent name="C:\Users\15130\Dropbox\0_FullDocument\DA1zvvvvs\C. DevOps\3. CICD\TeamCity" />
+      <recent name="C:\Users\15130\Dropbox\0_FullDocument\DA1zvvvvs\b. webdev" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3deda194-6da5-4d88-9a60-fb835be04db5" name="Default" comment="" />
+      <created>1529322221622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529322221622</updated>
+      <workItem from="1529322241679" duration="5972000" />
+      <workItem from="1529393875050" duration="18088000" />
+      <workItem from="1529479638654" duration="7519000" />
+      <workItem from="1529490795715" duration="660000" />
+      <workItem from="1529494303527" duration="789000" />
+      <workItem from="1529495815863" duration="482000" />
+      <workItem from="1529497154510" duration="1131000" />
+      <workItem from="1529560490887" duration="3678000" />
+      <workItem from="1529644282164" duration="180000" />
+      <workItem from="1529646212156" duration="436000" />
+      <workItem from="1529660204717" duration="197000" />
+      <workItem from="1529698035268" duration="2425000" />
+      <workItem from="1529709312663" duration="118000" />
+      <workItem from="1529710395421" duration="2373000" />
+      <workItem from="1529717949814" duration="7001000" />
+      <workItem from="1529762661907" duration="1198000" />
+      <workItem from="1529786580355" duration="5826000" />
+      <workItem from="1529850027650" duration="1195000" />
+      <workItem from="1529892048573" duration="674000" />
+      <workItem from="1529896262871" duration="2520000" />
+      <workItem from="1529930487722" duration="984000" />
+      <workItem from="1529975111099" duration="6322000" />
+      <workItem from="1529986940773" duration="3149000" />
+    </task>
+    <task id="LOCAL-00001" summary="Thêm phần các framework cho css">
+      <created>1529327712372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529327712372</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Có thêm một số cập nhật mới về Chương 2 của FrontEnd">
+      <created>1529423403880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529423403882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Có thêm một số cập nhật mới về Chương 2 của FrontEnd">
+      <created>1529427724377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529427724377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Có thêm một số cập nhật mới về Chương 2 của FrontEnd">
+      <created>1529463520054</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529463520054</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Có thêm một số cập nhật mới về Chương 2 của FrontEnd">
+      <created>1529467030594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529467030594</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Đã thiết lập hệ thống các file khá hoàn thiện">
+      <created>1529486743375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1529486743375</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Đã thiết lập hệ thống các file khá hoàn thiện">
+      <created>1529490483797</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1529490483797</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Đã thiết lập hệ thống các file khá hoàn thiện">
+      <created>1529560688831</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1529560688831</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72917000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32843137" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3570348" />
+      <window_info anchor="bottom" id="TeamCity" order="8" weight="0.32843137" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Thêm phần các framework cho css" />
+    <MESSAGE value="Có thêm một số cập nhật mới về Chương 2 của FrontEnd" />
+    <MESSAGE value="Đã thiết lập hệ thống các file khá hoàn thiện" />
+    <option name="LAST_COMMIT_MESSAGE" value="Đã thiết lập hệ thống các file khá hoàn thiện" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/B. webdev/FrontEnd/CSS/TongQuan.md" />
+    <entry file="file://$PROJECT_DIR$/B. webdev/FrontEnd/HTML/TongQuan.md" />
+    <entry file="file://$PROJECT_DIR$/C. DevOps/3. CICD/Travis/Travis.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/2. Cloud/AWS.md" />
+    <entry file="file://$PROJECT_DIR$/C. DevOps/2. Cloud/GoogleClouPlatform/TongQuan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/2. Cloud/Heroku/TongQuan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B. webdev/BackEnd/GoLang/Chuong14.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/4. Automation/Terraform/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/4. Automation/AWS CloudFormation/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/4. Automation/Ansible/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/4. Automation/Puppet/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/3. CICD/TeamCity/TeamCity.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/4. Automation/Chef/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/4. Automation/Saltstack/Saltstack.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/8. Webservers/Nginx/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/8. Webservers/Tomcat/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/8. Webservers/IIS/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/8. Webservers/Caddy/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/6. MonitoringAndAlerting/Nagios/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/8. Webservers/Apache/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/6. MonitoringAndAlerting/Zabbit/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/7. Cluster Managers/Kubernetes/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/7. Cluster Managers/Mesos/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/7. Cluster Managers/Fleet/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/7. Cluster Managers/Docker Swarm/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/3. CICD/JENKINS/JENKINS.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A. AI/2. LyThuyetDoThi/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A. AI/3. Machine learning/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="200">
+            <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A. AI/1. Logic Toan/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B. webdev/FrontEnd/CSS/Chuong2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-476">
+            <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B. webdev/BackEnd/GraphQL/Chuong14.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B. webdev/BackEnd/NodeJS/TongQuan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/2. Cloud/AWS/TongQuan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="46" selection-start-column="46" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B. webdev/FrontEnd/JS/Chuong3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="523">
+            <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/2. Cloud/Azure/TongQuan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/9. Microservices/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/G. GIt/docs/git-branch.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/G. GIt/docs/git-basic.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="17">
+            <caret line="36" selection-start-line="30" selection-end-line="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/5. Contianers/1. docker/docs/docker-coban/docker-coban-backup-and-recovery-containers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="27" column="64" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/5. Contianers/1. docker/docs/docker-coban/docker-swarm-about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="561">
+            <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/5. Contianers/1. docker/docs/docker-coban/Cluster.md" />
+    <entry file="file://$PROJECT_DIR$/C. DevOps/3. CICD/GioiThieu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="697">
+            <caret line="41" column="58" selection-start-line="41" selection-start-column="58" selection-end-line="41" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B. webdev/BackEnd/Java/TongQuan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="748">
+            <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E. Compiler Design/HJTlang/Chuong1.md" />
+    <entry file="file://$PROJECT_DIR$/E. Compiler Design/HJTlang/Chuong2.md" />
+    <entry file="file://$PROJECT_DIR$/C. DevOps/9. Microservices/Authen2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="3094">
+            <caret line="182" column="19" selection-start-line="182" selection-start-column="19" selection-end-line="182" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E. Compiler Design/HJTlang/1_TongQuan/TimHieuCacTrinhBienDichHienCo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E. Compiler Design/HJTlang/1_TongQuan/TongQuanVeCacCongNguLapTrinh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="306">
+            <caret line="428" selection-start-line="428" selection-end-line="428" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/9. Microservices/ActiveDirectory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="272">
+            <caret line="16" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C. DevOps/9. Microservices/AD.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="489">
+            <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
